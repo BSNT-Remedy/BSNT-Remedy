@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/github-banner.png" alt="Banner" />
+  <img src="assets/github-banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Allan Jay V. Busante</h1>
